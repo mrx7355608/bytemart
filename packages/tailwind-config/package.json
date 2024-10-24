@@ -1,0 +1,12 @@
+{
+  "name": "@repo/tailwind-config",
+  "version": "0.0.0",
+  "private": true,
+  "exports": {
+    "./tailwind.config": "./tailwind.config.js",
+    "./main.css": "./main.css"
+  },
+  "devDependencies": {
+    "daisyui": "^4.12.13"
+  }
+}

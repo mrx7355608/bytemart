@@ -1,5 +1,5 @@
 "use client";
 
 export const Button = () => {
-  return <button>LOL</button>;
+  return <button className="btn btn-primary">LOL</button>;
 };
